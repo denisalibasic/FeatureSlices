@@ -8,7 +8,6 @@ This repository contains the implementation of a Media Management System, focusi
 - [Project Structure](#project-structure)
   - [Models](#models)
   - [Repositories](#repositories)
-  - [Services](#services)
   - [MediatR Handlers](#mediatr-handlers)
   - [Controllers](#controllers)
 - [Getting Started](#getting-started)
@@ -34,11 +33,6 @@ This project demonstrates a clean architecture approach to managing books and mo
 
 - **Books Repository**: Handles data access and persistence operations for books. This layer interacts with the database and performs CRUD operations.
 - **Movies Repository**: Handles data access and persistence operations for movies. Similar to the Books Repository, it manages CRUD operations for movie data.
-
-### Services
-
-- **Books Service**: Contains the business logic related to books. It interacts with the Books Repository and handles operations such as book creation, retrieval, and updates.
-- **Movies Service**: Contains the business logic related to movies. It interacts with the Movies Repository and manages movie-related operations.
 
 ### MediatR Handlers
 
