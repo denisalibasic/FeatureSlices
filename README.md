@@ -95,5 +95,4 @@ Contributions are welcome! Please fork this repository, create a new branch, and
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Blog
-Link to related blog post:
-== To be updated ==
+Link to related blog post: [Cloud codeblock](https://cloudcodeblock.com/2024/08/29/qrs-mediatr-and-feature-slicing/)
